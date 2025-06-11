@@ -91,7 +91,6 @@ organização do estoque, caixa e abordagem ao cliente para venda.
   <section class="contato">
     <h2>Contato</h2>
     <p>Você pode entrar em contato comigo por email: <a href="mailto:vicanalarios@gmail.com ">vicanalarios@gmail.com </a></p>
-    <p>Ou pelo LinkedIn: <a href="https://www.linkedin.com/in/joaosilva" target="_blank">/joaosilva</a></p>
   </section>
 
   <footer>
